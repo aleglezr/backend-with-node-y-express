@@ -1,0 +1,19 @@
+{
+  "name": "curso_backend",
+  "version": "1.0.0",
+  "description": "backend with node & express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuzGonzalez/backend-with-node-y-express.git"
+  },
+  "author": "Alejandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuzGonzalez/backend-with-node-y-express/issues"
+  },
+  "homepage": "https://github.com/LuzGonzalez/backend-with-node-y-express#readme"
+}
